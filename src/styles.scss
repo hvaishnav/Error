@@ -1,0 +1,15 @@
+table {
+    // border-collapse: collapse ;
+    border-spacing: 0;
+    // overflow-y: auto !important;
+  }
+  
+  table, th, td {
+    border: 1px solid #ccc;
+  }
+
+super-table-head {
+    overflow-y: auto !important;
+    display: block;
+}
+ 
